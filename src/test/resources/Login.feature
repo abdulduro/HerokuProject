@@ -3,7 +3,7 @@ Feature: User able to login with valid credentials
 
 Background: Implement the common steps
   Given I am on home page
-#  And I click the login button
+
 
 
   Scenario: User successfully logs in with valid credentials
